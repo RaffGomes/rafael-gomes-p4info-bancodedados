@@ -1,0 +1,13 @@
+1) A modelagem conceitual trata da descrição da semântica de aplicativos de software em
+um alto nível de abstração. Especificamente, modeladores conceituais descrevem modelos de estrutura
+em termos de entidades, relacionamentos e restrições; descrevem modelos comportamentais ou funcionais
+em termos de estados, transições entre estados e ações executadas em estados e transições; e descrevem
+interações e interfaces de usuário em termos de mensagens enviadas e recebidas e informações trocadas.
+2) define-se como o planejamento de todos os detalhes da rede que será implantada e utilizada;
+em programação de banco de dados, é a etapa seguinte da modelagem conceitual e é definido como
+a descrição da estrutura que pode ser processada pelo SGBD, essa descrição é obtida a partir do
+mapeamento de um modelo conceitual.
+3) É a parte final do projeto de banco de dado, nesta etapa define-se detalhes
+técnicos da implementação do banco de dados, por exemplo a forma como os dados serão armazenados,
+os scripts para a criação dos objetos no banco de dados (tabelas, visões, colunas, funções,etc),
+permissão de acesso de usuário, etc.
