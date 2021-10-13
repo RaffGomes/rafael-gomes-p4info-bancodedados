@@ -1,0 +1,9 @@
+a)
+ALUNO_DISCIPLINA
+Atributos:
+-ID_aluno(chave estrangeira relacionada com a chave primária de aluno)
+-ID_disciplina(chave estrangeira relacionada com a chave primária de disciplina)
+-nota(a nota do aluno em cada disciplina)
+-periodo(período de cada nota)
+
+A chave primária é formada pelos atributos ID_aluno e ID_disciplina
